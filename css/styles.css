@@ -15,7 +15,6 @@
 body {
 	font-family: "Roboto", sans-serif;
 	font-size: 14px;
-	line-height: 1.71;
 	letter-spacing: 0.03em;
 
 	color: var(--text-color);
@@ -53,7 +52,6 @@ body {
 
 .logo {
 	font-family: "Raleway", sans-serif;
-	font-weight: 700;
 	font-size: 26px;
 	line-height: calc(31 / 26);
 	color: var(--accent-color);
@@ -128,7 +126,6 @@ body {
 }
 
 .section-title {
-	font-weight: 700;
 	font-size: 36px;
 	line-height: calc(42 / 36);
 	text-align: center;
@@ -136,7 +133,6 @@ body {
 }
 
 .principle-title {
-	font-weight: 700;
 	font-size: 14px;
 	line-height: calc(16 / 14);
 	text-transform: uppercase;
@@ -167,7 +163,6 @@ body {
 }
 
 .position {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: calc(19 / 16);
 	text-align: center;
@@ -186,7 +181,6 @@ body {
 }
 
 .project-name {
-	font-weight: 700;
 	font-size: 18px;
 	line-height: 2;
 	letter-spacing: 0.06em;
@@ -194,7 +188,6 @@ body {
 }
 
 .project-type {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.88;
 }
